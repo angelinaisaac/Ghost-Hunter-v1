@@ -1,0 +1,450 @@
+fileFormatVersion: 2
+guid: 9f0bc2c1b42a0f44ab3e071154c6e3e3
+ModelImporter:
+  serializedVersion: 24200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carpet
+    second: {fileID: 2100000, guid: 364df89749056e4449963e67096e7aeb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ceiling
+    second: {fileID: 2100000, guid: c04d48ffb30f03742977e40e2c98b125, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Light
+    second: {fileID: 2100000, guid: d18cd18f42be037418e743062e19897a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Light.001
+    second: {fileID: 2100000, guid: f7bd369ebc2ede74cb825cf8d51d5ef8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Light.002
+    second: {fileID: 2100000, guid: b7a978416821d1244a8f7a24ab698621, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Light.003
+    second: {fileID: 2100000, guid: 526f3fb2dff38264483c7a2f5db82342, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Light.004
+    second: {fileID: 2100000, guid: 1662b410532c74640bc0ff177f8c3922, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Light.005
+    second: {fileID: 2100000, guid: d21e54e2b7cb3054ea709f19512eab6e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Light.006
+    second: {fileID: 2100000, guid: e28e43110474be947b2c3f285eda80b5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Light.007
+    second: {fileID: 2100000, guid: 2da03342951100a419e3bdc810739479, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Light.008
+    second: {fileID: 2100000, guid: 69318441d90dde049beddf89f7db3a56, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Light.009
+    second: {fileID: 2100000, guid: 04b6f350e490a3645ab68adbb42d26ae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Light.010
+    second: {fileID: 2100000, guid: dc507e9c69193c540aa88f6626db293c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Light.011
+    second: {fileID: 2100000, guid: 69fcf5e2b2baf0d4eba04d5adbf5765b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Light.012
+    second: {fileID: 2100000, guid: 664e5549900f9244ba5211fd6021cad8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Light.013
+    second: {fileID: 2100000, guid: 19151f500b485114f84d855f3ce55cd5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Light.014
+    second: {fileID: 2100000, guid: bdb35534202f61d46a987179f334a95c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Light.015
+    second: {fileID: 2100000, guid: bbdd02d6fec131143afd0c14e9237fbf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Light.016
+    second: {fileID: 2100000, guid: cdeefa381d601c6458096732527b7e88, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Light.017
+    second: {fileID: 2100000, guid: e4a9c55fc54f1f1469a4af19ee0f5718, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Light.018
+    second: {fileID: 2100000, guid: c6b0c736bd72dbc42af494203fd24d42, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Light.019
+    second: {fileID: 2100000, guid: 7a78cd3ce48b82248b0843eb446942ae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Light.020
+    second: {fileID: 2100000, guid: 98bf429c7f1a06049969cf7447965bf2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Light.022
+    second: {fileID: 2100000, guid: f6880f27abeb4f44a815810e9b3f5c44, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Light.023
+    second: {fileID: 2100000, guid: 4841b81bba4b54a45a7075869616f226, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Light.024
+    second: {fileID: 2100000, guid: 05ec3359f9f42144e8187cc2c1fe8160, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Light.025
+    second: {fileID: 2100000, guid: 6250c20cd6200ac45906efeb9291018f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Light.026
+    second: {fileID: 2100000, guid: 006f6b137fade8b47b4ea4a6bd2bd488, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Light.027
+    second: {fileID: 2100000, guid: 8c6611261a4052247a6bceaf0d84c4dc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Light.028
+    second: {fileID: 2100000, guid: 2a41d0bd93b790c4184b61780d1fa3f0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Light.029
+    second: {fileID: 2100000, guid: 9526eb9fd9721344785f42b581cd2ae9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Light.030
+    second: {fileID: 2100000, guid: cb1551b709a7ef048b185650c6ebe9da, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Light.031
+    second: {fileID: 2100000, guid: d3b9158cc8b097f4a8aa2a012baf26ea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Light.032
+    second: {fileID: 2100000, guid: 46c99bc4e7476184abeb46fa2bf6a930, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Light.033
+    second: {fileID: 2100000, guid: 52c7bce0eb84e9b4cbe2c95462badb22, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Light.034
+    second: {fileID: 2100000, guid: d548d71973c95b446995e41e2f6331de, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Light.035
+    second: {fileID: 2100000, guid: 00ba84972c98fb44e84ecd78a94ce1c2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Light.036
+    second: {fileID: 2100000, guid: a1c58984cdadbe4478faa5645e6d172e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Light.037
+    second: {fileID: 2100000, guid: 0fb0a804c5182d14da307d511537637f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Light.038
+    second: {fileID: 2100000, guid: 91d8cae33765bb445a8380ea527fbcbd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Light.039
+    second: {fileID: 2100000, guid: b2a362377d71c5145abecc58f466a4d0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Light.040
+    second: {fileID: 2100000, guid: e6a7b82547c87e0478ea180cb986a55e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Light.041
+    second: {fileID: 2100000, guid: 8668d7d87af69f8459580815a00960d0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Light.042
+    second: {fileID: 2100000, guid: 617f5f2b9d6ddef4e8918ca16fca14d2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Light.043
+    second: {fileID: 2100000, guid: 1971b5c35f0061b4eb000cf575f6ea48, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Light.044
+    second: {fileID: 2100000, guid: 7b8ba22ff6884b747a333c16fb673c3e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Light.045
+    second: {fileID: 2100000, guid: de13cbe5dccfdb344b3f21b1f21483d9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Light.046
+    second: {fileID: 2100000, guid: 46bc13e23c60b2c4dac6c5566cea24e8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Light.047
+    second: {fileID: 2100000, guid: e45835b83aa810d449ae1e371d697de2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Light.048
+    second: {fileID: 2100000, guid: c1c07073b9a61e04296476c6eae14a5e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Light.049
+    second: {fileID: 2100000, guid: 850ad405a05be5641b87f5ac40b35e48, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Light.050
+    second: {fileID: 2100000, guid: 3bbed45ae76a662499c537b2e305bb5e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Light.051
+    second: {fileID: 2100000, guid: d7f1a918cad481e4db71c60059de61fd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Light.052
+    second: {fileID: 2100000, guid: ee0e7cd488276104f84ccb2a2010fb3e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Light.053
+    second: {fileID: 2100000, guid: 9255ac0aad52b224aadf1cee2a31289e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Light.054
+    second: {fileID: 2100000, guid: 20f8ea184387bd3429597bc999b25b59, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Light.055
+    second: {fileID: 2100000, guid: a100c37ece07228448d5cfea1ffda0c8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Light.056
+    second: {fileID: 2100000, guid: 57bc4351dd3bcd74ebe1c7fd35b671c5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Light.057
+    second: {fileID: 2100000, guid: 959441c1206b7d14eb3c1ae93cf80ece, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Light.058
+    second: {fileID: 2100000, guid: 2ffebed127956054da001a4666a87bf3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Light.059
+    second: {fileID: 2100000, guid: 3e06c7086a48bfb42a413695d6e7348e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Light.060
+    second: {fileID: 2100000, guid: f8c3fa2fa646dec45bc98e5dd8f0e137, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Light.061
+    second: {fileID: 2100000, guid: 6209d57238cfeb942b9fed4b60b269bf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Light.062
+    second: {fileID: 2100000, guid: 626cb3912cd3ffa42a97392010a04eaf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Light.063
+    second: {fileID: 2100000, guid: e861a0dee041a7448bb0b2c60fb22a3d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Light.064
+    second: {fileID: 2100000, guid: a11ade1c759ac944f81d192ae13bb1e0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Light.065
+    second: {fileID: 2100000, guid: d9595495161b1eb4caf1808912e1587f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Walls
+    second: {fileID: 2100000, guid: 74f7136d3be38d74b825e17ba01e7050, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    generateMeshLods: 0
+    meshLodGenerationFlags: 0
+    maximumMeshLod: -1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

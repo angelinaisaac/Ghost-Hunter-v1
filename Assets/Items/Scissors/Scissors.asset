@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 35375c7e4cdbd844dbadf88f9cb0cacf, type: 3}
+  m_Name: Scissors
+  m_EditorClassIdentifier: Assembly-CSharp::ItemScript
+  itemName: Scissors
+  icon: {fileID: 21300000, guid: 166e045d4b4ac064e9d5b6b45e2500a2, type: 3}
+  maxStackSize: 1
+  itemPrefab: {fileID: 5107117370675627834, guid: 3613bf75ebb69ce46899e19006b30441, type: 3}
+  handItemPrefab: {fileID: 537051701542232503, guid: b140c67126455ac40b23894a0886dff1, type: 3}
+  description: I could cut fabric with this..

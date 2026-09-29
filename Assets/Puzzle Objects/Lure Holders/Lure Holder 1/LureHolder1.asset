@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d6a89dce608880d409ea06c75293b47a, type: 3}
+  m_Name: LureHolder1
+  m_EditorClassIdentifier: Assembly-CSharp::PuzzleObject
+  hint: I wonder what this could hold..
+  requiredItem: {fileID: 11400000, guid: 46f4588ff1bc49d45ab548df796a25ce, type: 2}
+  prefab: {fileID: 8654032402023761837, guid: 4ea93c61859d6d24fb0d5341c2de4b5b, type: 3}

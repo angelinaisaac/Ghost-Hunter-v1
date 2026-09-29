@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 35375c7e4cdbd844dbadf88f9cb0cacf, type: 3}
+  m_Name: Fan Blade
+  m_EditorClassIdentifier: Assembly-CSharp::ItemScript
+  itemName: Fan Blade
+  icon: {fileID: 21300000, guid: fea69e67b988e324aa58dce7ffbda0dd, type: 3}
+  maxStackSize: 2
+  itemPrefab: {fileID: 5290631979578314528, guid: dce12a025e5134449a99743cd6638db6, type: 3}
+  handItemPrefab: {fileID: 5752848426333378015, guid: f502480e4e78afe408dd1930d75e4dac, type: 3}
+  description: 'I could use this to craft a fan '
