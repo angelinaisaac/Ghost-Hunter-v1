@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d6a89dce608880d409ea06c75293b47a, type: 3}
+  m_Name: Mannequin
+  m_EditorClassIdentifier: Assembly-CSharp::PuzzleObject
+  hint: This is so creepy.. reminds me of a ghost
+  requiredItem: {fileID: 11400000, guid: 683644c40798cce4083384cabf34eb06, type: 2}
+  prefab: {fileID: 3944452176562528445, guid: fd1f2cd20b4fd6640a9db80f2262972c, type: 3}

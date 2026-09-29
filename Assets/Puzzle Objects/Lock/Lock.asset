@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d6a89dce608880d409ea06c75293b47a, type: 3}
+  m_Name: Lock
+  m_EditorClassIdentifier: Assembly-CSharp::PuzzleObject
+  hint: 'What does this lock say? \n [I to interact]'
+  requiredItem: {fileID: 11400000, guid: f80be87db861e1840b1d82c330d1e36d, type: 2}
+  prefab: {fileID: 2115284116365046462, guid: 2af37b8d9e6a6bc408b53a7c08330337, type: 3}
